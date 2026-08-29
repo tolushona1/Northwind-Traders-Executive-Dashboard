@@ -24,7 +24,7 @@ This dashboard was built by following a Tableau tutorial by **Kapil Dhiman** - [
 
 ## What I noticed
 
-The dashboard's Top Customers view reveals a clear top tier: my three highest customers (Horst Kloss, Jose Pavarotti and Roland Mendel) are all clustered closely together around 113k-118k in revenue but there's a sharp drop-off after that where the 4th ranked customer generates roughly as as much. This kind of concentration could be useful for a business thinking about account management priorities or churn risk if one of those top customers were lost.
+The dashboard's Top Customers view reveals a clear top tier: my three highest customers (Horst Kloss, Jose Pavarotti and Roland Mendel) are all clustered closely together around 113k-118k in revenue but there's a sharp drop-off after that where the 4th ranked customer generates roughly half as much. This kind of concentration could be useful for a business thinking about account management priorities or churn risk if one of those top customers were lost.
 
 ## Skills practised
 

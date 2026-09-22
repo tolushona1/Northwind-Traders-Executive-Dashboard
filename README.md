@@ -13,6 +13,12 @@ Using the Northwind Traders dataset, build an executive-level view of the busine
 4. Added interactive filters for Country, Year, Month, and a "Top N" parameter.
 5. Explored the finished dataset independently to pull out additional observations beyond the tutorial.
 
+## Skills Practised
+- Dashboard layout and KPI card design
+- Parameter-driven "Top N" filtering
+ Combining multiple chart types (line, bar) in one view
+- Working with filters across Country, Year and Month dimensions
+
 ## Key Insight
 The Top Customers view shows a clear top tier: the three highest-revenue customers are closely clustered between £113k–£118k, with a sharp drop-off after that — the 4th-ranked customer generates roughly half as much. This kind of concentration is useful for prioritising account management or flagging churn risk if a top customer were lost.
 
